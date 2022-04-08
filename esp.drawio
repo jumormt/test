@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T12:15:27.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="CP4xEthPEzt8W1W1LpVx" version="17.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-08T13:09:04.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="AGshw6VgnagDmmhp5ziA" version="17.4.0" type="github" pages="4">
   <diagram id="akfSw5SM6DdzzVv-xnoa" name="Page-1">
-    <mxGraphModel dx="918" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1102" dy="1074" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2118,11 +2118,8 @@
         <mxCell id="zXtJx08GnBdsVdUnMTy6-216" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;startSize=2;endSize=2;strokeColor=#3700CC;strokeWidth=0.8;fillColor=#6a00ff;" parent="zXtJx08GnBdsVdUnMTy6-145" source="zXtJx08GnBdsVdUnMTy6-186" target="zXtJx08GnBdsVdUnMTy6-193" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cQmFB_bve99oBQvlnm5b-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;$$\$\texttt{F}\rightarrow[\$\texttt{F},c_0\land c_1]$$&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;fontColor=#36393D;labelBackgroundColor=none;" parent="zXtJx08GnBdsVdUnMTy6-145" connectable="0" vertex="1">
-          <mxGeometry x="42.99894495220212" y="252.9973637536873" as="geometry" />
-        </mxCell>
         <mxCell id="cQmFB_bve99oBQvlnm5b-2" value="&lt;span style=&quot;color: rgb(54 , 57 , 61)&quot;&gt;$$\$\texttt{A}\rightarrow[\$\texttt{A},\neg c_0]$$&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;fontColor=#000000;labelBackgroundColor=none;" parent="zXtJx08GnBdsVdUnMTy6-145" connectable="0" vertex="1">
-          <mxGeometry x="34.940000000000055" y="268.12000000000035" as="geometry" />
+          <mxGeometry x="34.940000000000055" y="257.12000000000035" as="geometry" />
         </mxCell>
         <mxCell id="zXtJx08GnBdsVdUnMTy6-218" value="&lt;font style=&quot;font-size: 14px&quot;&gt;(c) Our Approach&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=12;fontColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="830.9488235294117" y="2339.8823529411766" width="156.5" height="30" as="geometry" />
