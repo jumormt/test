@@ -1,0 +1,154 @@
+<mxfile host="Electron" modified="2023-06-25T08:11:29.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="vHwUBax40d1gxmANlitu" version="21.5.0" type="device">
+  <diagram name="第 1 页" id="lZCh2zKxhORDItXjr9Fz">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;(a) Source code&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="455.3800000000001" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-2" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;endSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506.5500000000002" y="451" as="sourcePoint" />
+            <mxPoint x="506.5500000000002" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-3" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF0000;endSize=2;dashed=1;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="511" y="362" as="sourcePoint" />
+            <mxPoint x="815" y="362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-4" value="&lt;font color=&quot;#000000&quot;&gt;pts(loc2) = {&amp;amp;ids[19&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;]&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;}&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="826.1799999999998" y="288.6299999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-5" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0.261;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="926.8047299999998" y="375.6199999999999" as="sourcePoint" />
+            <mxPoint x="926.8124999999995" y="303.6199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;(b) Sparse&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;Analysis over individual domains&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="501.3699999999999" y="455.3800000000001" width="324" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;(c) Sparse&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;Analysis across mutiple domains&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="822.81" y="455.3800000000001" width="314" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Isolation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.5;fontColor=#FF0000;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;" vertex="1" parent="1">
+          <mxGeometry x="640.7399999999998" y="355.6400000000001" width="64.52" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-9" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;endSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820.4299999999998" y="450.6199999999999" as="sourcePoint" />
+            <mxPoint x="820.4299999999998" y="250.6199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-10" value="&lt;font color=&quot;#000000&quot;&gt;pts(loc1) = {&amp;amp;ids[&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;], &amp;amp;ids[1]...&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;&amp;amp;ids[19]}&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="272" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-11" value="&lt;font color=&quot;#000000&quot;&gt;pts(loc1) = {&amp;amp;ids[&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;], &amp;amp;ids[1],..&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0);&quot;&gt;.&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#007f05&quot;&gt;&amp;amp;ids[9]}&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="826.1799999999998" y="270.6199999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-12" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;1&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#cc0066&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b00041&quot;&gt;int&lt;/font&gt;&amp;nbsp;&lt;/b&gt;ids[&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;20&lt;/font&gt;] = {&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;0&lt;/font&gt;};&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;2&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(176, 0, 65);&quot;&gt;char&lt;/b&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;*&lt;/font&gt;tab = malloc(&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;15&lt;/font&gt;);&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; ...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;3&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#cc0066&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b00041&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;int&lt;/b&gt;&lt;/font&gt;&amp;nbsp;slot = randn() %&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;10&lt;/font&gt;;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#808080&quot;&gt;4&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b00041&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;int&lt;/b&gt;&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;*&lt;/font&gt;loc1 =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;&amp;amp;&lt;/font&gt;ids[slot];&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;5&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;*&lt;/font&gt;loc1 =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;15&lt;/font&gt;;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;6&amp;nbsp;&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b00041&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;int&lt;/b&gt;&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;*&lt;/font&gt;loc2 =&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;&amp;amp;&lt;/font&gt;ids[&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#b3b3b3&quot;&gt;19&lt;/font&gt;];&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#828282&quot;&gt;7&amp;nbsp;&lt;/font&gt;&amp;nbsp;&amp;nbsp;print(tab[*loc2]);&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;" vertex="1" parent="1">
+          <mxGeometry x="263" y="250" width="210" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Memory Address Domain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="253" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Memory Address Domain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="826.1799999999998" y="252.6199999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-15" value="&lt;font color=&quot;#000000&quot;&gt;pts(loc2) = {&amp;amp;ids[19&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;]&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;}&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="290.01" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-16" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Interval Domain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;flipV=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="428.04999999999995" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;itv(slot&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0, 9]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="376.3399999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;itv(*loc1&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0, 15]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="393.3399999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;itv(*loc2&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;, 15&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="510.3699999999999" y="410.3399999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-20" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Interval Domain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;flipV=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="826.81" y="427.28999999999996" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;itv(slot&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0, 9]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="826.1799999999998" y="373.1600000000001" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-22" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;itv(*loc1&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0, 15]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="826.81" y="392.5799999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;itv(*loc2&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;=&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;[0&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#007f05&quot;&gt;, 0&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;container=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="826.81" y="409.5799999999999" width="306" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-24" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#007f05&quot;&gt;Refine &lt;span style=&quot;font-weight: normal;&quot;&gt;pts(loc1)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#007f05&quot;&gt;using&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#007f05&quot;&gt;itv(slot)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="842.8099999999995" y="309.8699999999999" width="66.68" height="59.39" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-25" value="" style="endArrow=none;html=1;rounded=0;endSize=2;exitX=0.261;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;startArrow=classic;startFill=1;startSize=2;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050.4299999999998" y="375.56999999999994" as="sourcePoint" />
+            <mxPoint x="1050.4377699999995" y="303.56999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-26" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#007f05&quot;&gt;Refine &lt;span style=&quot;font-weight: normal;&quot;&gt;itv(*loc2)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#007f05&quot;&gt;using&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot; color=&quot;#007f05&quot;&gt;pts(loc1)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#828282;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1055.4299999999998" y="309.8699999999999" width="66.68" height="59.39" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-27" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot;&gt;Cross-domain interactions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0.5;fontColor=#007F05;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;" vertex="1" parent="1">
+          <mxGeometry x="937.1799999999998" y="332.56999999999994" width="100" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-28" value="no interactions across multiple domains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="519.3699999999999" y="322.99" width="290" height="19.96" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-29" value="&lt;font color=&quot;#007f05&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot; face=&quot;Fira code&quot;&gt;// loc1 and loc2 are not aliases&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="411.0999999999999" width="245.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-30" value="&lt;font color=&quot;#007f05&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot; face=&quot;Fira code&quot;&gt;// safe array access of tab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="445.3800000000001" width="205.51" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548.5" y="392.96000000000004" width="29.5" height="30.04" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-32" value="Spurious&lt;br&gt;aliases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="515.8499999999999" y="428.04999999999995" width="50" height="23.02" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007F05;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865.9899999999998" y="391.9599999999998" width="29.5" height="30.04" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-34" value="&lt;font color=&quot;#007f05&quot;&gt;Not&lt;br&gt;aliases&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="830.81" y="424.9799999999998" width="50" height="23.02" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007F05;" vertex="1" parent="1">
+          <mxGeometry x="354.7999999999997" y="429" width="57.94" height="14.16" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-36" value="&lt;font color=&quot;#007f05&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot; face=&quot;Fira code&quot;&gt;// slot&amp;nbsp; [0, 9]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="321" width="115" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-37" value="$$\in$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007F05;container=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="322" width="26" height="12.37" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-38" value="False &lt;br&gt;overflow alarm!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="722.81" y="380.9399999999998" width="107" height="47.11" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-39" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot; face=&quot;Fira code&quot;&gt;tab[&lt;font color=&quot;#ff0000&quot;&gt;*loc2&lt;/font&gt;]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="669" y="402.5999999999999" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-40" value="&lt;font color=&quot;#007f05&quot;&gt;Safe &lt;br&gt;buffer &lt;br&gt;access&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Fira code;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DFira%2Bcode;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1032.92" y="390.8900000000001" width="101.08" height="27.11" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-41" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Fira+code&quot; face=&quot;Fira code&quot;&gt;tab[&lt;font color=&quot;#007f05&quot;&gt;*loc2&lt;/font&gt;]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="975.6799999999998" y="403" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-42" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="691.06" y="409.8399999999999" width="57.94" height="14.16" as="geometry" />
+        </mxCell>
+        <mxCell id="obi3Gi38DOcvOk4Vvvt8-43" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#007F05;" vertex="1" parent="1">
+          <mxGeometry x="997.7399999999998" y="409.5799999999999" width="57.94" height="14.16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
