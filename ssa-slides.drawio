@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-04-04T09:51:21.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="oqlC8Oci9UiS-AzyaSyH" version="24.1.0" type="device" pages="10">
+<mxfile host="Electron" modified="2024-04-04T11:14:40.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="rqa4Y2bWnftcXwAwZC3E" version="24.0.4" type="device" pages="10">
   <diagram id="oMB0CqHA-dfCkBe8gGEA" name="slide page size">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
+    <mxGraphModel dx="1114" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7156,7 +7156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="single-interval-ae" id="wYU_gBj5dxtcpbW1npQp">
-    <mxGraphModel dx="2102" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
+    <mxGraphModel dx="2025" dy="2576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
       <root>
         <mxCell id="iwwadxzOWPKLwskBscJc-0" />
         <mxCell id="iwwadxzOWPKLwskBscJc-1" parent="iwwadxzOWPKLwskBscJc-0" />
@@ -7635,7 +7635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="itv-mem" id="b1z2XY3ub14dHVJBLOpQ">
-    <mxGraphModel dx="1114" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
+    <mxGraphModel dx="768" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
       <root>
         <mxCell id="VpiquDre-0dYEZ74fT3Y-0" />
         <mxCell id="VpiquDre-0dYEZ74fT3Y-1" parent="VpiquDre-0dYEZ74fT3Y-0" />
@@ -8320,23 +8320,23 @@
         <mxCell id="nrEW9bhCyijR25EYxIOE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="VpiquDre-0dYEZ74fT3Y-1" source="nrEW9bhCyijR25EYxIOE-0" target="nrEW9bhCyijR25EYxIOE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nrEW9bhCyijR25EYxIOE-0" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Memory Address Domain&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;textShadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
+        <mxCell id="nrEW9bhCyijR25EYxIOE-0" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Interval Domain&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;textShadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
           <mxGeometry x="600" y="740" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="nrEW9bhCyijR25EYxIOE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="VpiquDre-0dYEZ74fT3Y-1" source="nrEW9bhCyijR25EYxIOE-1" target="nrEW9bhCyijR25EYxIOE-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nrEW9bhCyijR25EYxIOE-1" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Interval Domain&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;textShadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
+        <mxCell id="nrEW9bhCyijR25EYxIOE-1" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Memory Address Domain&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;textShadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
           <mxGeometry x="830" y="740" width="100" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nrEW9bhCyijR25EYxIOE-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pointer information&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
-          <mxGeometry x="726" y="730" width="80" height="31" as="geometry" />
+        <mxCell id="nrEW9bhCyijR25EYxIOE-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;refine pointer with interval&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007F05;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
+          <mxGeometry x="681" y="743" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nrEW9bhCyijR25EYxIOE-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Interval information&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
-          <mxGeometry x="726" y="860" width="80" height="32" as="geometry" />
+          <mxGeometry x="840" y="540" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="nrEW9bhCyijR25EYxIOE-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Cross-Domain Interaction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
-          <mxGeometry x="716" y="783" width="100" height="72" as="geometry" />
+          <mxGeometry x="716" y="794" width="100" height="72" as="geometry" />
         </mxCell>
         <mxCell id="vwbulVZTr69iG0NJNDSW-0" value="" style="group" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1" connectable="0">
           <mxGeometry x="297" y="727" width="205" height="206" as="geometry" />
@@ -8523,6 +8523,15 @@
         </mxCell>
         <mxCell id="QvQuDSQMRUvO1OrORJ4Z-1" value="&lt;p style=&quot;line-height: 200%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Interval Domain&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;textShadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="VpiquDre-0dYEZ74fT3Y-1" vertex="1">
           <mxGeometry x="910" y="250" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tpAn6tWdHtCakaD5ipOI-0" value="$$\sigma$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="VpiquDre-0dYEZ74fT3Y-1">
+          <mxGeometry x="751" y="763" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpAn6tWdHtCakaD5ipOI-1" value="$$\delta$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="VpiquDre-0dYEZ74fT3Y-1">
+          <mxGeometry x="751" y="873" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tpAn6tWdHtCakaD5ipOI-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;refine interval with pointer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007F05;" vertex="1" parent="VpiquDre-0dYEZ74fT3Y-1">
+          <mxGeometry x="681" y="893" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
