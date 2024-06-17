@@ -1,9 +1,57 @@
-<mxfile host="Electron" modified="2024-04-08T06:49:09.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="jEzvtox36azk9q_quf6P" version="24.1.0" type="device" pages="11">
+<mxfile host="Electron" modified="2024-06-14T07:58:59.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9fuyAAqDHfdEaz5N_ROf" version="24.5.1" type="device" pages="11">
   <diagram id="oMB0CqHA-dfCkBe8gGEA" name="slide page size">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
+    <mxGraphModel dx="893" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="akAm9R-UdiQS-BYZ2aoR-1" target="akAm9R-UdiQS-BYZ2aoR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-1" value="SVF::AndersenBase" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;" vertex="1" parent="1">
+          <mxGeometry x="62" y="30" width="100" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-2" value="::getPts(NodeID ptr)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get points-to set of ptr&lt;/font&gt;&lt;div&gt;::addPts(NodeID ptr, NodeID obj)&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// add obj to the points-to set of pointer ptr&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::unionPts(NodeID ptr, NodeID ptr)&amp;nbsp; &lt;font color=&quot;#008000&quot;&gt;// union two points-to sets&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::pushIntoWorklist(NodeID id)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;font color=&quot;#008000&quot;&gt;// push the node to worklist&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::popFromWorkist()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// pop a node from the worklist&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::isInWorklist(NodeID id)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// return true if the node is in the worklist&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::isWorklistEmpty()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// return true if the worklist is empty&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="393" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="akAm9R-UdiQS-BYZ2aoR-3" target="akAm9R-UdiQS-BYZ2aoR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-3" value="SVF::AndersenPTA" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;" vertex="1" parent="1">
+          <mxGeometry x="62" y="138" width="100" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-5" value="::addCopyEdge(NodeID src, NodeID dst)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// add a copy edge from src to dst&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="138" width="393" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-6" value="SVF::ConstraintGraph" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;" vertex="1" parent="1">
+          <mxGeometry x="62" y="172" width="114" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-7" value="::getConstraintNode(NodeID id)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get the node based on its ID&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="169" width="393" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-8" value="SVF::ConstraintNode" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;" vertex="1" parent="1">
+          <mxGeometry x="62" y="202" width="114" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-10" value="::getStoreInEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get incoming store edges of the node&lt;/font&gt;&lt;div&gt;::getStoreOutEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// g&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 128, 0); background-color: initial;&quot;&gt;et outcoming store edges of the node&lt;/span&gt;&lt;/div&gt;&lt;div&gt;::getLoadInEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get incoming load edges of the node&lt;/font&gt;&lt;div&gt;::getLoadOutEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// g&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 128, 0); background-color: initial;&quot;&gt;et outcoming load edges of the node&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;::getCopyInEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get incoming copy edges of the node&lt;/font&gt;&lt;/div&gt;&lt;div&gt;::getCopyOutEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;//&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 128, 0); background-color: initial;&quot;&gt;get outcoming copy edges of the node&lt;/span&gt;&lt;/div&gt;&lt;div&gt;::getGepInEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// get incoming gep edges of the node&lt;/font&gt;&lt;div&gt;::getGepOutEdges()&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font color=&quot;#008000&quot;&gt;// g&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 128, 0); background-color: initial;&quot;&gt;et outcoming gep edges of the node&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="202" width="393" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="akAm9R-UdiQS-BYZ2aoR-3" target="akAm9R-UdiQS-BYZ2aoR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="148" as="sourcePoint" />
+            <mxPoint x="190" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="akAm9R-UdiQS-BYZ2aoR-6" target="akAm9R-UdiQS-BYZ2aoR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="178.5" as="sourcePoint" />
+            <mxPoint x="204" y="179.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akAm9R-UdiQS-BYZ2aoR-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="akAm9R-UdiQS-BYZ2aoR-8" target="akAm9R-UdiQS-BYZ2aoR-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="191" as="sourcePoint" />
+            <mxPoint x="200" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
