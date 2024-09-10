@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-09-09T07:43:39.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="aRG44GASonwYs2elBdsq" version="24.5.1" type="device" pages="2">
+<mxfile host="Electron" modified="2024-09-10T06:13:09.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="VUGf_3t0VuMK6pyRheFe" version="24.0.4" type="device" pages="2">
   <diagram name="intro" id="jH83rPQHw8LuaXOdMIeX">
-    <mxGraphModel dx="2382" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
+    <mxGraphModel dx="2194" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="240" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1086,7 +1086,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="K8-P5JbFH8ZFw9EOi0-U" name="motivating">
-    <mxGraphModel dx="4662" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3100" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="4691" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3100" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1776,8 +1776,8 @@
         <mxCell id="P4prqHHLGxHXFLLRFPpa-125" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Linux Libertine&quot;&gt;PoC Input&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-97.20999999999998" y="1861.25" width="51" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4prqHHLGxHXFLLRFPpa-127" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Linux Libertine&quot;&gt;Valgrind&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-138.08999999999995" y="1916.17" width="52" height="36" as="geometry" />
+        <mxCell id="P4prqHHLGxHXFLLRFPpa-127" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Linux Libertine&quot;&gt;Memcheck&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-146" y="1938.12" width="50" height="26.05" as="geometry" />
         </mxCell>
         <mxCell id="P4prqHHLGxHXFLLRFPpa-128" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.707;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2145,6 +2145,9 @@
         </mxCell>
         <mxCell id="y3d6K-GsYXaOYhC0RLpr-3" value="&lt;p style=&quot;line-height: 100%; font-size: 12px;&quot;&gt;GDB&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;strokeColor=default;fontSize=12;fillColor=default;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="123.75" y="1814" width="30.5" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="2z5YELNN8ZM9sRhLLf1e-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://valgrind.org/images/valgrind-100.png;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1923.6999999999998" width="72.29" height="20.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
