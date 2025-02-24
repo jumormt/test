@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9" pages="2">
   <diagram name="第 1 页" id="oaBwvU0hBXUBrq2sIcGb">
-    <mxGraphModel dx="925" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3100" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3100" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,30 +751,30 @@
           <mxGeometry x="4294" y="149" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-26" value="&lt;font&gt;GepObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="4610" y="148" width="65" height="20" as="geometry" />
+          <mxGeometry x="4610" y="149" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.189;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;endArrow=none;endFill=0;endSize=6;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="F5-FIcBUrM_4_CfOi08V-9" target="F5-FIcBUrM_4_CfOi08V-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F5-FIcBUrM_4_CfOi08V-32" value="&lt;font&gt;HeapObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="F5-FIcBUrM_4_CfOi08V-32" value="&lt;font&gt;HeapObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4333" y="178" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F5-FIcBUrM_4_CfOi08V-33" value="&lt;font&gt;StackObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="F5-FIcBUrM_4_CfOi08V-33" value="&lt;font&gt;StackObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4333" y="208" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F5-FIcBUrM_4_CfOi08V-34" value="&lt;font&gt;GlobalObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="F5-FIcBUrM_4_CfOi08V-34" value="&lt;font&gt;GlobalObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4333" y="236" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-35" value="&lt;font&gt;ConstAggObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="4505" y="148" width="100" height="20" as="geometry" />
+          <mxGeometry x="4505" y="149" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-36" value="&lt;font&gt;ConstDataObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="4390" y="149" width="110.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F5-FIcBUrM_4_CfOi08V-37" value="&lt;font&gt;FunObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="F5-FIcBUrM_4_CfOi08V-37" value="&lt;font&gt;FunObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4333" y="268" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F5-FIcBUrM_4_CfOi08V-38" value="&lt;font&gt;DummyObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="F5-FIcBUrM_4_CfOi08V-38" value="&lt;font&gt;DummyObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="4333" y="300" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="F5-FIcBUrM_4_CfOi08V-32" target="F5-FIcBUrM_4_CfOi08V-24">
@@ -826,13 +826,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-47" value="&lt;font&gt;ConstFPObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="4465.5" y="213.5" width="90" height="20" as="geometry" />
+          <mxGeometry x="4465.5" y="208" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-48" value="&lt;font&gt;ConstIntObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="4465.5" y="181.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="4465.5" y="178" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-49" value="&lt;font&gt;ConstNullPtrObjVar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="4465.5" y="244.5" width="115" height="20" as="geometry" />
+          <mxGeometry x="4465.5" y="236" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F5-FIcBUrM_4_CfOi08V-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="F5-FIcBUrM_4_CfOi08V-48" target="F5-FIcBUrM_4_CfOi08V-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
